@@ -1,0 +1,70 @@
+[
+  {
+    "id": "01",
+    "loginCredentail": {
+      "username": "abc",
+      "password": "cde"
+    },
+    "items": [
+      {
+        "url": "http://automationpractice.com/index.php?id_product=1&controller=product",
+        "size": "M",
+        "quantity": "2"
+      },
+      {
+        "url": "http://automationpractice.com/index.php?id_product=2&controller=product",
+        "size": "S",
+        "quantity": "3"
+      }
+    ],
+    "address": {
+      "firstName": "Abhishek",
+      "lastName": "Kadavil",
+      "address": "Palakkal",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10001",
+      "country": "United States",
+      "homePh": "09946266914",
+      "mobilePh": "09946266914",
+      "addressTitle": "HomeAddress"
+    },
+    "payment": {
+      "PmtType": "bankWire"
+    }
+  },
+  {
+    "id": "01",
+    "loginCredentail": {
+      "username": "abc",
+      "password": "cde"
+    },
+    "items": [
+      {
+        "url": "http://automationpractice.com/index.php?id_product=1&controller=product",
+        "size": "M",
+        "quantity": "2"
+      },
+      {
+        "url": "http://automationpractice.com/index.php?id_product=2&controller=product",
+        "size": "S",
+        "quantity": "3"
+      }
+    ],
+    "address": {
+      "firstName": "Abhishek",
+      "lastName": "Kadavil",
+      "address": "Palakkal",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10001",
+      "country": "United States",
+      "homePh": "09946266914",
+      "mobilePh": "09946266914",
+      "addressTitle": "HomeAddress"
+    },
+    "payment": {
+      "PmtType": "bankWire"
+    }
+  }
+]
